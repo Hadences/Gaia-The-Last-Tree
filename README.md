@@ -2,7 +2,9 @@
 
 ## This is my game submission for the My First Game Jam Winter 2023 Event.
 
-![alt text](https://img.itch.zone/aW1nLzExMjgzMDUzLnBuZw==/315x250%23c/%2BctqQL.png)
+<p align="center">
+  <img src="[http://some_place.com/image.png](https://img.itch.zone/aW1nLzExMjgzMDUzLnBuZw==/315x250%23c/%2BctqQL.png)" />
+</p>
 
 ### Description 
 A 2D action mini game given the theme **Growth**.
