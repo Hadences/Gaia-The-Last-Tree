@@ -3,7 +3,7 @@
 ## This is my game submission for the My First Game Jam Winter 2023 Event.
 
 <p align="center">
-  <img src="[https://img.itch.zone/aW1nLzExMjgzMDUzLnBuZw==/315x250%23c/%2BctqQL.png]" />
+  <img src="https://img.itch.zone/aW1nLzExMjgzMDUzLnBuZw==/315x250%23c/%2BctqQL.png" />
 </p>
 
 ### Description 
