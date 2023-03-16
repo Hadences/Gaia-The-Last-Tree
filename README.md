@@ -12,6 +12,7 @@ The goal of the game is to protect the tree in the middle and let it grow until 
 
 ### Technologies Used
 Unity - Game Engine
+
 Aseprite - Pixel Art Editor
 
 ### Challenges Faced
